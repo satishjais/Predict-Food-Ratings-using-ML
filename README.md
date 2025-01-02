@@ -43,5 +43,3 @@ The model successfully predicts recipe ratings, with various models accuracies, 
 2. **Run the notebook**: Open the Jupyter notebook `kaggle notebook.ipynb` and execute the cells to view data analysis, feature engineering, model training, and evaluation.
 
 ---
-
-This README file offers a comprehensive guide to the Food Recipe Rating Prediction project, covering its dataset, features, approach, and setup instructions, helping users and contributors seamlessly understand and engage with the predictive model development process.
